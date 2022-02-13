@@ -18,7 +18,7 @@ features:
 - title: 更新保证
   details: 文档由 Peckot Studios 的活跃管理员编写和维护，当 Peckot Studios 的更新影响使用方式时，本文档也会相应更新。
 - title: 快速高效
-  details: 该文档网页由 Gitee Pages 静态网页托管服务提供托管，帮助您快速加载页面。
+  details: 该文档网页由 GitHub 提供代码托管，CloudFlare Pages 提供项目构建及网页托管服务，帮助您快速加载页面。
 footer: MIT Licensed | Copyright © 2021-2022 Peckot Studios
 ---
 
