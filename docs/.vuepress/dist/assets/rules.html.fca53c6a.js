@@ -1,0 +1,1 @@
+const e={key:"v-4f77eb6d",path:"/guide/peckotmc/rules.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644747891e3,contributors:[{name:"Pectics",email:"pectics@outlook.com",commits:1}]},filePathRelative:"guide/peckotmc/rules.md"};export{e as data};
