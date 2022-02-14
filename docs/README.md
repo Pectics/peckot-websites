@@ -22,6 +22,10 @@ features:
 footer: MIT Licensed | Copyright © 2021-2022 Peckot Studios
 ---
 
+## 内容说明
+
+在您使用 Peckot Studios 相关应用及 API 时，将默认您同意 [《Peckot场景规则相关规定》](/rules "点击跳转")，若您对规定内容存有异议，请勿使用 Peckot Studios 相关应用及 API。
+
 ## 这是哪儿？
 
 这里是 Peckot Studios 的官方文档页面，该页面由 Gitee Pages 进行托管，您可以在此查看有关 Peckot Studios 的任何帮助信息或开发文档，亦或是了解 Peckot Studios 的更新日志和发展方向。
