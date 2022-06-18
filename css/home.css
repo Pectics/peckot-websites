@@ -1,11 +1,11 @@
 @font-face {
     font-family: Minecraft;
-    src: url(../fonts/b302ddbcba41edd860d13c5d003991e2.woff2) format("woff2")
+    src: url(../fonts/Minecraft.woff2) format("woff2")
 }
 
 @font-face {
     font-family: abc;
-    src: url(../fonts/11.woff2) format("woff2")
+    src: url(../fonts/abc.woff2) format("woff2")
 }
 
 /*后台面板*/
