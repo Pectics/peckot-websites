@@ -70,7 +70,7 @@
     }
 
     #fixed-bg {
-        background-image: url(https://api.amogu.cn/api/acg/?type=img) !important;
+        background-image: url(https://api.peckot.com/BingDailyPic.php?type=image) !important;
         background-size: cover;
     }
 
