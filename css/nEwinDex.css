@@ -324,7 +324,7 @@ header .header-col.mid .social-icons {
 }
 
 #section-main {
-    background: linear-gradient(135deg, rgba(0, 0, 0, 0.5) 0, rgba(41, 38, 0, 0.5) 100%), url(https://api.peckot.com/BingDailyPic.php?type=image) top
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.5) 0, rgba(41, 38, 0, 0.5) 100%), url(https://api.peckot.com/pic/BingDaily.php?type=image) top
 }
 
 .header-col-right {
