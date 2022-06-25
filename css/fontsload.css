@@ -1,5 +1,14 @@
 /* cyrillic-ext */
 @font-face {
+    font-family: 'Gladden';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/GladdenDemoRegular.ttf) format('ttf');
+    unicode-range: U+0370-03FF;
+}
+
+/* cyrillic-ext */
+@font-face {
     font-family: 'Comfortaa';
     font-style: normal;
     font-weight: 400;
